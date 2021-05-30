@@ -1,24 +1,4 @@
 
-#Conversation opened. 1 read message.
-#
-#Skip to content
-#Using Gmail with screen readers
-#suprava patnaik 
-#
-#Conversations
-#Improve result with search options such as sender, date, size and more.
-#2.31 GB (15%) of 15 GB used
-#Manage
-#Terms · Privacy · Programme Policies
-#Last account activity: 1 hour ago
-#Details
-
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 31 17:46:55 2018
-
-@author: Neel
-"""
 
 import cv2
 import numpy as np
